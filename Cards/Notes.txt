@@ -1,0 +1,4 @@
+List 
+Arrays - fixed length
+Slices - can grow or shrink
+replace variables not gonna use by _
